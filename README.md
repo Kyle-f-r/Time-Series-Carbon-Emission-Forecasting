@@ -6,6 +6,7 @@ MIT's Applied Data Science program has predefined the focus of the capstone as t
 "Forecast the carbon emissions value for natural gas fuel type for the last 12 months and propose certain measures that can be adoped as policies to reduce these emissions".
 
 #### Problem Summary
+___
 The US needs to be able to accurately model and forecast CO2 emissions for Natural gas to lead in action under the Paris Agreement in the following ways:
 1. Being able to track progress on current Natural Gas policies as it relates to its 2030 goal (the year the US will reduce carbon emissions by 50-52% below 2005 levels). 
 2. Error/Miscalculation checker (either in reporting or accounting) for reporting dates established under the Enhanced Transparency Framework adopted in the Paris Agreement (2024 is the nearest due date).
